@@ -1,0 +1,13 @@
+name: FuturisticEndCastle
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Builds a futuristic blue-black castle in the End dimension.
+commands:
+  endcastle:
+    description: Builds a futuristic blue-black castle in the End at your location.
+    usage: /endcastle
+    aliases: [neoncastle, castle]
+  endcastledecor:
+    description: Decorates the futuristic blue-black castle with lights and details.
+    usage: /endcastledecor

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <!-- Futuristic blue-black castle icon (16x16 grid scaled) -->
+  <!-- Sky background -->
+  <rect width="32" height="32" fill="#0a0e1a"/>
+  <!-- Stars -->
+  <rect x="2" y="3" width="1" height="1" fill="#9ab8ff"/>
+  <rect x="8" y="1" width="1" height="1" fill="#9ab8ff"/>
+  <rect x="14" y="2" width="1" height="1" fill="#6f8fd0"/>
+  <rect x="20" y="1" width="1" height="1" fill="#9ab8ff"/>
+  <rect x="27" y="3" width="1" height="1" fill="#6f8fd0"/>
+  <rect x="5" y="6" width="1" height="1" fill="#6f8fd0"/>
+  <rect x="24" y="5" width="1" height="1" fill="#9ab8ff"/>
+  <rect x="30" y="8" width="1" height="1" fill="#6f8fd0"/>
+  <rect x="1" y="11" width="1" height="1" fill="#9ab8ff"/>
+
+  <!-- Distant land / ground -->
+  <rect x="0" y="30" width="32" height="2" fill="#0d1420"/>
+
+  <!-- Main castle body (black with blue accents) -->
+  <!-- Central keep -->
+  <rect x="8" y="12" width="16" height="18" fill="#1a1a2e"/>
+  <rect x="8" y="12" width="16" height="1" fill="#00b8ff"/>
+  <rect x="8" y="18" width="16" height="1" fill="#00b8ff"/>
+  <rect x="8" y="24" width="16" height="1" fill="#00b8ff"/>
+
+  <!-- Windows (glowing blue) -->
+  <rect x="12" y="20" width="2" height="3" fill="#00e5ff"/>
+  <rect x="18" y="20" width="2" height="3" fill="#00e5ff"/>
+  <rect x="15" y="14" width="3" height="2" fill="#00e5ff"/>
+
+  <!-- Door -->
+  <rect x="14" y="26" width="4" height="4" fill="#05070d"/>
+  <rect x="16" y="27" width="1" height="1" fill="#00b8ff"/>
+
+  <!-- Central spire -->
+  <rect x="14" y="8" width="4" height="4" fill="#232342"/>
+  <rect x="14" y="8" width="4" height="1" fill="#00b8ff"/>
+  <rect x="14" y="4" width="4" height="4" fill="#1a1a2e"/>
+  <rect x="15" y="3" width="2" height="1" fill="#00e5ff"/>
+
+  <!-- Left tower -->
+  <rect x="3" y="10" width="5" height="20" fill="#131320"/>
+  <rect x="3" y="10" width="5" height="1" fill="#00b8ff"/>
+  <rect x="4" y="7" width="3" height="3" fill="#131320"/>
+  <rect x="4" y="7" width="3" height="1" fill="#00b8ff"/>
+  <rect x="4" y="14" width="2" height="3" fill="#00e5ff"/>
+  <rect x="4" y="21" width="2" height="3" fill="#00e5ff"/>
+
+  <!-- Right tower -->
+  <rect x="24" y="10" width="5" height="20" fill="#131320"/>
+  <rect x="24" y="10" width="5" height="1" fill="#00b8ff"/>
+  <rect x="25" y="7" width="3" height="3" fill="#131320"/>
+  <rect x="25" y="7" width="3" height="1" fill="#00b8ff"/>
+  <rect x="26" y="14" width="2" height="3" fill="#00e5ff"/>
+  <rect x="26" y="21" width="2" height="3" fill="#00e5ff"/>
+
+  <!-- Connecting walls -->
+  <rect x="8" y="11" width="3" height="2" fill="#1c1c33"/>
+  <rect x="21" y="11" width="3" height="2" fill="#1c1c33"/>
+
+  <!-- Glowing trim at ground -->
+  <rect x="8" y="11" width="16" height="1" fill="#0066ff"/>
+  <rect x="3" y="9" width="5" height="1" fill="#0066ff"/>
+  <rect x="24" y="9" width="5" height="1" fill="#0066ff"/>
+
+  <!-- Ground platform -->
+  <rect x="1" y="29" width="30" height="1" fill="#0d1e2e"/>
+  <rect x="0" y="30" width="32" height="1" fill="#00407a"/>
+  <rect x="1" y="31" width="30" height="1" fill="#0a1626"/>
+
+  <!-- Floating particle accents -->
+  <rect x="16" y="6" width="1" height="1" fill="#00e5ff" opacity="0.7"/>
+  <rect x="10" y="5" width="1" height="1" fill="#00b8ff" opacity="0.5"/>
+  <rect x="22" y="5" width="1" height="1" fill="#00b8ff" opacity="0.5"/>
+  <rect x="16" y="1" width="1" height="1" fill="#00e5ff" opacity="0.8"/>
+</svg>
